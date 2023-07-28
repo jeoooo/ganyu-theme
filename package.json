@@ -1,0 +1,21 @@
+{
+  "name": "ganyu-theme",
+  "displayName": "Ganyu-Theme",
+  "description": "Ganyu Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ganyu Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Ganyu Theme-color-theme.json"
+      }
+    ]
+  }
+}
