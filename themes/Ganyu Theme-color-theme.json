@@ -1845,7 +1845,7 @@
 		},
 	],
 	"colors": {
-		"foreground": "#a4b6ef",
+		"foreground": "#596cd5",
 		"focusBorder": "#a4b6ef",
 		"selection.background": "#d9eeff",
 		"scrollbar.shadow": "#a4b6ef",
@@ -2107,6 +2107,7 @@
 		"debugExceptionWidget.border": "#596cd5",
 		"textLink.foreground": "#e65965",
 		"welcomePage.tileBackground": "#a4b6ef",
+		"welcomePage.background": "#ff0000",
 		"editorGroup.dropBackground": "#596cd55c",
 	}
 }
