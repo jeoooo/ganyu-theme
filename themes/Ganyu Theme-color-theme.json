@@ -2105,7 +2105,7 @@
 		"editorGutter.commentRangeForeground": "#424242",
 		"debugExceptionWidget.background": "#feecc5",
 		"debugExceptionWidget.border": "#596cd5",
-		"textLink.foreground": "#e65965",
+		"textLink.foreground": "#596cd5",
 		"welcomePage.tileBackground": "#a4b6ef",
 		"welcomePage.background": "#ff0000",
 		"editorGroup.dropBackground": "#596cd55c",
