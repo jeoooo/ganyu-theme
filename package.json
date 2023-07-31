@@ -1,7 +1,7 @@
 {
   "name": "ganyu-theme",
-  "displayName": "Ganyu-Theme",
-  "description": "Ganyu Theme",
+  "displayName": "Sinae Unicornis",
+  "description": "VSCode Ganyu-based color theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
@@ -15,6 +15,13 @@
         "label": "Ganyu Theme",
         "uiTheme": "vs",
         "path": "./themes/Ganyu Theme-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "turtles",
+        "label": "Turtles",
+        "path": "./icons/sinae-unicornis-theme.json"
       }
     ]
   }
