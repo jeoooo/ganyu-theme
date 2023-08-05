@@ -2,7 +2,9 @@
   "name": "ganyu-theme",
   "displayName": "Sinae Unicornis",
   "description": "VSCode Ganyu-based color theme",
-  "version": "0.0.1",
+  "publisher": "jeooo",
+  "version": "1.0.0",
+  "icon": "images/ganyu-theme-icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -14,7 +16,7 @@
       {
         "label": "Ganyu Theme",
         "uiTheme": "vs",
-        "path": "./themes/Ganyu Theme-color-theme.json"
+        "path": "./themes/ganyu-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -24,5 +26,9 @@
         "path": "./icons/sinae-unicornis-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeoooo/ganyu-theme.git"
   }
 }
